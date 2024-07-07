@@ -81,7 +81,7 @@ yo code
   
   vsce login publisher name
       
--  Publisher Name é o seu Publisher ID que foi gerado no passo 0. Ao executar este comando o vsce pedirá o seu token, copie e cole o token que foi gerado no Azure DevOps.
+-  Publisher Name é o seu Publisher ID que foi gerado. Ao executar este comando o vsce pedirá o seu token, copie e cole o token que foi gerado no Azure DevOps.
 
 -    Em seguida execute o comando abaixo:
   
