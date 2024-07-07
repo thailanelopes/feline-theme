@@ -78,11 +78,13 @@ yo code
 - Ao clicar em create será gerado um novo token. Copie este token e salve em um lugar seguro, pois não será exibido novamente
 
 - Agora vá para o terminal, acesse o diretório do tema e execute o comando abaixo:
-      vsce login <publisher name>
+  
+  vsce login publisher name
       
 -  Publisher Name é o seu Publisher ID que foi gerado no passo 0. Ao executar este comando o vsce pedirá o seu token, copie e cole o token que foi gerado no Azure DevOps.
 
 -    Em seguida execute o comando abaixo:
-        vsce publish
+  
+  vsce publish
 
 Pronto!!!
