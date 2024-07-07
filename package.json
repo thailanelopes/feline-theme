@@ -1,0 +1,32 @@
+{
+  "name": "feline-color-theme",
+  "displayName": "feline-color-theme",
+  "description": "Uma homenagem ao meu amor pelos gatos...",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thailanelopes/Meu_tema_VsCode"
+  },
+  "license": "MIT",
+  "publisher": "feline-color-theme",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "feline",
+        "uiTheme": "vs-dark",
+        "path": "./themes/feline-color-theme.json"
+      }
+    ]
+  }
+}
